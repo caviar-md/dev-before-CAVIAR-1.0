@@ -1,7 +1,7 @@
 # before-release-1.0
 This part has the CAVIAR package from the start up to the release 1.0, even before it was named CAVIAR.
 
-CAVIAR project was started around summer of 2016. It had no name at the start. It has started as 'ChargedParticles' project.
+CAVIAR project was started at the summer of 2016. It had no name at the start. It has started as 'ChargedParticles' project.
 After some months, the name has changed to FinE-CuPPA. Then it was renamed to FinECuPPA. At last CAVIAR was chosen.
 
 This package was started with us learning advanced C++ programming from an intermediate level. So its structure has changed many times. We even didn't know much about licenses.
